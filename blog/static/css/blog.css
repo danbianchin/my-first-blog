@@ -1,5 +1,5 @@
 .page-header {
-    background-color: rgb(121, 224, 139);
+    background-color: rgb(212, 90, 236);
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -31,7 +31,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #5dce1b;
+    color: cadetblue;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -44,4 +44,10 @@ h1, h2, h3, h4 {
 
 .post h2 a, .post h2 a:visited {
     color: rgb(255, 145, 0);
+}
+
+p {font-family: monospace;}
+
+ a:hover {
+    color: blueviolet;
 }
